@@ -8,5 +8,4 @@ hello Atguigu!hello git!
 hello Atguigu!hello git!
 hello Atguigu!hello git!
 hello Atguigu!hello git!
-hello Atguigu!hello git!master test
-hello Atguigu!hello git!
+hello Atguigu!hello git!hot-fixt test
